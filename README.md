@@ -19,4 +19,6 @@ I wish you all luck in your own great endeavours and thank you for having a look
 
 ## State of the Game
 
+*** Currently I have no time for this project but I will come back to it ***
+
 TLDR; Non-existant, Basic structure and foundations are being built for the game to one day reign supreme over and direct as it wills.
